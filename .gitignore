@@ -1,0 +1,4 @@
+*.a
+*.o
+*.wasm
+targets.json
